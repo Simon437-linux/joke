@@ -1,5 +1,6 @@
 ## Joke-Seite
-das ist mein html Projekt mit einem Freund.
+das ist mein html Projekt mit einem Schul-Freund. Die fertige Seite gibts hier: https://witze-seite.netlify.app/
+!!!Die Webseite funktioniert nur auf dem Computer wirklich gut, Auf dem Smathphone gibt es anzeigefehler!!!
 # Inhalt der Seite
 Auf dem index File kann man über einem Button sich immerwieder neue Witze holen.
 Weiter unten findet man die Kategorien Facts, Informationen und Witze Speicher
